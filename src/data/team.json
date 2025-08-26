@@ -1,0 +1,308 @@
+{
+  "members": [
+    {
+      "id": "altay-satilmis",
+      "name": "Altay Satılmış",
+      "position": "Kurucu ",
+      "department": "Yönetim",
+      "company": "Bayronix",
+      "image": "/img/altay.jpeg",
+      "shortBio": "6+ yıllık teknoloji ve girişimcilik deneyimi",
+      "fullBio": "Altay Satılmış, Bayronix Group Limited A.Ş'in kurucusu ve Kurucu'su olarak 6 yılı aşkın süredir teknoloji ve girişimcilik alanında faaliyet göstermektedir. Vizyoner liderliği ve stratejik bakış açısıyla şirketi kuruluşundan bu yana büyütmüş ve sektörde öncü bir konuma getirmiştir. İşletme alanında yüksek lisans derecesine sahip olan Altay, teknoloji yatırımları ve iş geliştirme konularında uzmanlık sahibidir.",
+      "expertise": [
+        "Stratejik Yönetim",
+        "İş Geliştirme",
+        "Girişimcilik",
+        "Teknoloji Yatırımları"
+      ],
+      "education": "İşletme Yüksek Lisans",
+      "experience": "6+ Yıl",
+      "projects": [
+        "Bayronix Kuruluşu",
+        "Teknoloji Yatırım Fonu",
+        "Dijital Dönüşüm Programı",
+        "RandomBayim Kuruluşu",
+        " Spelya Kuruluşu",
+        " Spokingo Kuruluşu"
+      ],
+      "social": {
+        "linkedin": "https://www.linkedin.com/in/sprole-7a0160324/",
+        "instagram": "https://www.instagram.com/altaysatilmis/",
+        "email": "altay@bayronix.com"
+      }
+    },
+    {
+      "id": "atilla-satilmis",
+      "name": "Atilla Satılmış",
+      "position": "Kurucu",
+      "department": "Yönetim",
+      "company": "Bayronix",
+      "image": "/img/atilla.jpeg",
+      "shortBio": "Şirket Kasa Yönetiminde Uzman",
+      "fullBio": "Atilla Satılmış, Bayronix firmamızın üst düzey yönetiminde aktif olarak görev almakta ve şirketimizin kurumsal yapılanmasını yönlendirmektedir. Musabe Üniversitesi mezunu olan Atilla, eğitim hayatından itibaren teknoloji ve girişimcilik alanlarına ilgi duymuş; bu ilgiyi sektöre değer katan işler ile taçlandırmıştır.",
+      "expertise": [
+        "Muasebe",
+        "Gelir gider takibi"
+      ],
+      "education": "Muasebe",
+      "experience": "3+ Yıl",
+      "projects": [
+        "Random Bayim Hesap Takibi",
+        " Spelya Hesap Takibi"
+      ],
+      "social": {
+        "linkedin": "#",
+        "instagram": "#",
+        "email": "atilla@bayronix.com"
+      }
+    },
+    {
+      "id": "onur-satilmis",
+      "name": "Onur Satılmış",
+      "position": "Kurucu",
+      "department": "Yönetim",
+      "company": "Bayronix",
+      "image": "/img/onur.jpeg",
+      "shortBio": "Organizasyon ve proje yönetimi uzmanı",
+      "fullBio": "Bayronix çatısı altında yer alan Onur Satılmış, satış ve operasyon yönetimi konularında uzmanlaşmış bir ekip üyesidir. Müşteri ilişkilerinin güçlendirilmesi, pazarlama stratejilerinin uygulanması ve satış performansının artırılması konularında aktif çalışmalar yürütmektedir.",
+      "expertise": [
+        "Proje Yönetimi",
+        "Operasyon Yönetimi",
+        "Süreç Optimizasyonu",
+        "Kalite Yönetimi"
+      ],
+      "education": "İşletme",
+      "experience": "2+ Yıl",
+      "projects": [
+        "Süreç Optimizasyonu",
+        "Random Bayim 3.000 Adet Satış"
+      ],
+      "social": {
+        "linkedin": "#",
+        "instagram": "#",
+        "email": "onur@bayronix.com"
+      }
+    },
+    {
+      "id": "omer-sarioglu",
+      "name": "Ömer Sarıoğlu",
+      "position": "CEO",
+      "department": "Yönetim",
+      "company": "Spokingo",
+      "image": "/img/ömer1.jpeg",
+      "shortBio": "Tasarım Uzmanı",
+      "fullBio": "Teknoloji ve üretim dünyasında önemli bir yer edinen Spokingo firmasının CEO'su olan Ömer Sarıoğlu, yönettiği ekip ve projelerle inovasyonu merkeze alan bir liderdir. Spokingo bünyesinde 3D yazıcı parçaları üretimi gerçekleştiren Ömer, hem fiziksel üretim hem de dijital pazarlama alanlarında bilgi sahibidir.",
+      "expertise": [
+        "Tasarım Mimarisi",
+        "Teknoloji Stratejisi",
+        "İnovasyon",
+        "Dijital Dönüşüm"
+      ],
+      "education": "İşletme",
+      "experience": "4+ Yıl",
+      "projects": [
+        "Yenilikçi Grafik tasarım",
+        "Web Site tasarımı",
+        "3D model tasrımı"
+      ],
+      "social": {
+        "linkedin": "#",
+        "instagram": "#",
+        "email": "omer@bayronix.com"
+      }
+    },
+    {
+      "id": "buket-ozgen",
+      "name": "Buket Özgen",
+      "position": "CEO",
+      "department": "Yönetim",
+      "company": "Spelya",
+      "image": "/img/buket-ozgen.png",
+      "shortBio": "Etkinlik organizasyon Uzmanı ",
+      "fullBio": "Buket Özgen, Spelya'nın Teknoloji ekibinde Senior Full Stack Developer olarak görev yapmaktadır. Bilgisayar Mühendisliği eğitimi sonrası web ve mobil uygulama geliştirme alanlarında uzmanlaşmıştır. React, Node.js ve React Native gibi modern teknolojilerde derin bilgi sahibi olan Mehmet, şirketin dijital ürünlerinin geliştirilmesinde önemli rol oynamaktadır.",
+      "expertise": [
+        "Frontend",
+        "Backend",
+        "DevOps",
+        "Cloud"
+      ],
+      "education": "Orginazation",
+      "experience": "3+ Yıl",
+      "projects": [
+        "Color Fest",
+        "Konser",
+        "squid Game Etkinliği"
+      ],
+      "social": {
+        "linkedin": "#",
+        "instagram": "#",
+        "email": "veysi@bayronix.com"
+      }
+    },
+    {
+      "id": "hira-nur-celik",
+      "name": "Hira Nur Çelik",
+      "position": "CEO",
+      "department": "Yönetim",
+      "company": "Random Bayim",
+      "image": "/img/hira.jpeg",
+      "shortBio": "Firma Yönetimi",
+      "fullBio": "Hiranur Çeklik, Random Bayim markasının CEO’su olarak dijital satış platformlarının yönetiminde uzmanlaşmıştır. Özellikle epin ve random hesap satışları gibi niş pazarlarda, kullanıcı odaklı ve güvenli alışveriş çözümleri geliştirmektedir.",
+      "expertise": [
+        "Gelir gider takibi",
+        "raporlama",
+        "Satış Stratejisi"
+      ],
+      "education": "Halkla İlişkiler",
+      "experience": "2+ Yıl",
+      "projects": [
+        "Random Bayim yönetimi"
+      ],
+      "social": {
+        "linkedin": "#",
+        "instagram": "#",
+        "email": "hira@bayronix.com"
+      }
+    },
+    {
+      "id": "batuhan-donmez",
+      "name": "Batuhan Dönmez",
+      "position": "Müdür",
+      "department": "Destek",
+      "company": "Random Bayim",
+      "image": "/img/antu.jpeg",
+      "shortBio": "Altyapı ve deployment süreçleri uzmanı",
+      "fullBio": "Batuhan Dönmez, Random Bayim’in operasyonel süreçlerinden sorumlu müdürüdür. Platformun günlük işleyişinden, ekip koordinasyonuna kadar birçok kritik alanda aktif görev almaktadır.",
+      "expertise": [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "CI/CD"
+      ],
+      "education": "Bilgisayar Mühendisliği",
+      "experience": "4+ Yıl",
+      "projects": [
+        "Cloud Migration",
+        "CI/CD Pipeline",
+        "Container Orchestration"
+      ],
+      "social": {
+        "linkedin": "#",
+        "instagram": "#",
+        "email": "batuhan@bayronix.com"
+      }
+    },
+    {
+      "id": "Mehmter-rb",
+      "name": "Mehmet",
+      "position": "İş Geliştirme Müdürü",
+      "department": "İş Geliştirme",
+      "company": "Random Bayim",
+      "image": "/img/mehmetrb.jpeg",
+      "shortBio": "Müşteri ilişkileri ve iş geliştirme uzmanı",
+      "fullBio": "Mehmet Karadeniz, kullanıcı deneyimini iyileştirme odaklı çalışan destek kadromuzun bir diğer önemli ismidir. Müşteri taleplerine gösterdiği özenli yaklaşım ve hızlı çözüm üretme becerileriyle, platformumuzun güvenilirliğini ve kullanıcı sadakatini artırma hedefimize katkı sağlamaktadır.",
+      "expertise": [
+        "İş Geliştirme",
+        "Müşteri İlişkileri",
+        "Satış Stratejisi",
+        "Pazarlama"
+      ],
+      "education": "İşletme",
+      "experience": "6+ Yıl",
+      "projects": [
+        "Kurumsal Müşteri Portföyü",
+        "Stratejik Ortaklıklar",
+        "Pazar Genişletme"
+      ],
+      "social": {
+        "linkedin": "#",
+        "instagram": "#",
+        "email": "mehmet@bayronix.com"
+      }
+    },
+    {
+      "id": "Ahmet-efe-tufan",
+      "name": "Ahmet Efe Tufan ",
+      "position": "Proje Koordinatörü",
+      "department": "İş Geliştirme",
+      "company": "Random Bayim",
+      "image": "/img/ahmetrb.jpg",
+      "shortBio": "Proje süreçleri ve müşteri memnuniyeti uzmanı",
+      "fullBio": "Ahmet Efe Tufan, müşteri destek ekibimizin aktif bir üyesidir. Random Bayim kullanıcılarına en hızlı ve etkili desteği sunmakla sorumludur. Sorun çözme yeteneği, empatik iletişim tarzı ve teknik bilgi birikimi ile kullanıcıların güvenini kazanmış, destek ekibimizin temel taşlarından biri olmuştur.",
+      "expertise": [
+        "Proje Yönetimi",
+        "Müşteri Hizmetleri",
+        "Süreç Yönetimi",
+        "Kalite Kontrol"
+      ],
+      "education": "Endüstri Mühendisliği",
+      "experience": "5+ Yıl",
+      "projects": [
+        "Kurumsal Müşteri Projeleri",
+        "Kalite Güvence Sistemi",
+        "Müşteri Memnuniyeti Programı"
+      ],
+      "social": {
+        "linkedin": "#",
+        "instagram": "#",
+        "email": "ahmet@randombayim.com"
+      }
+    },
+    {
+      "id": "Umid-Rzayev",
+      "name": "Ümid Rzayev",
+      "position": "Frontend Uzmanı ",
+      "department": "İş Geliştirme",
+      "company": "Spelya",
+      "image": "/img/umid.jpeg",
+      "shortBio": "Dijital pazarlama ve içerik stratejisi uzmanı",
+      "fullBio": "Spelya Yazılım ekibimizin önemli bir parçası olan Umid Rzayver, ileri düzey front-end yazılım bilgisiyle projelerimizin teknik altyapısını oluşturmaktadır. Azerbaycan’da yaşayan Umid, uzak mesafeden yürüttüğü başarılı projelerle ekip ruhuna katkı sağlayan örnek bir yazılımcıdır.",
+      "expertise": [
+        "Dijital Pazarlama",
+        "İçerik Stratejisi",
+        "Sosyal Medya",
+        "SEO"
+      ],
+      "education": "İletişim",
+      "experience": "4+ Yıl",
+      "projects": [
+        "Marka Yenileme",
+        "Dijital Pazarlama Kampanyası",
+        "İçerik Stratejisi"
+      ],
+      "social": {
+        "linkedin": "#",
+        "instagram": "#",
+        "email": "umid@bayronix.com"
+      }
+    },
+    {
+      "id": "ecenur-demirbas",
+      "name": "Ecenur Demirbaş",
+      "position": "Radyo TV Uzmanı",
+      "department": "Medya",
+      "company": "Bayronix",
+      "image": "/img/ecenur-demirbas.jpeg",
+      "shortBio": "Radyo ve televizyon yayıncılığı uzmanı",
+      "fullBio": "Ecenur Demirbaş, Bayronix bünyesinde radyo ve televizyon yayıncılığı alanında uzmanlaşmış bir medya profesyonelidir. Yayın teknikleri, içerik üretimi ve program yönetimi konularında derin bilgi sahibi olan Ecenur, dijital medya dönüşümü sürecinde şirketimizin radyo ve TV projelerinin başarıyla hayata geçirilmesinde önemli rol oynamaktadır.",
+      "expertise": [
+        "Radyo Yayıncılığı",
+        "Televizyon Yapımcılığı",
+        "İçerik Yönetimi",
+        "Program Planlama"
+      ],
+      "education": "Radyo Televizyon ve Sinema",
+      "experience": "3+ Yıl",
+      "projects": [
+        "Dijital Radyo Platformu",
+        "TV Program Yapımcılığı",
+        "Canlı Yayın Teknolojileri"
+      ],
+      "social": {
+        "linkedin": "#",
+        "instagram": "#",
+        "email": "ecenur@bayronix.com"
+      }
+    }
+  ]
+}
